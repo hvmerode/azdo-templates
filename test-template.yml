@@ -3,4 +3,4 @@
 
 steps:
   - script: |
-      echo 'This is  external template file test-template.yml of repo azdo-templates'
+      echo 'This is external template file test-template.yml of repo azdo-templates on GitHub'
